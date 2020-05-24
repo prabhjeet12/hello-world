@@ -1,2 +1,3 @@
 # hello-world
-First repository
+Hi everyone
+I just want to learn programming languages
